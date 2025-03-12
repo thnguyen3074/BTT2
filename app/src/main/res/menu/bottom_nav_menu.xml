@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/nav_home"
+        android:icon="@drawable/home_24dp_1f1f1f_fill0_wght400_grad0_opsz24"
+        android:title="Quản lý"/>
+
+    <item
+        android:id="@+id/nav_books"
+        android:icon="@drawable/contract_24dp_1f1f1f_fill0_wght400_grad0_opsz24"
+        android:title="DS Sách"
+        android:enabled="false"/>
+
+    <item
+        android:id="@+id/nav_users"
+        android:icon="@drawable/person_24dp_1f1f1f_fill0_wght400_grad0_opsz24"
+        android:title="Nhân viên"
+        android:enabled="false"/>
+</menu>
